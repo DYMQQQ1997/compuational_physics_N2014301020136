@@ -10,7 +10,7 @@
 •注册github账户，建立自己针对计算物理课程的软件池（repository），命名方式compuational_physics_NXXXXXXX（XXXXXXX为个人的学号）所有的源代码和图片应上传到这里<br>
 •在这个软件池中按照markdown语法书写自己的第一个README.md，内容主要为你接下来所有作业的链接.<br>
 [Homework2](https://www.zybuluo.com/N2014301020136/note/504912)<br>
-[Homework3]()<br>
+[Homework3](https://www.zybuluo.com/N2014301020136/note/513109)<br>
 [Homework4]()<br>
 [Homework5]()<br>
 [Homework6]()<br>
