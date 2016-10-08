@@ -11,7 +11,7 @@
 •在这个软件池中按照markdown语法书写自己的第一个README.md，内容主要为你接下来所有作业的链接.<br>
 [Homework2](https://www.zybuluo.com/N2014301020136/note/504912)<br>
 [Homework3](https://www.zybuluo.com/N2014301020136/note/513109)<br>
-[Homework4]()<br>
+[Homework4](https://www.zybuluo.com/N2014301020136/note/524223)<br>
 [Homework5]()<br>
 [Homework6]()<br>
 [Homework7]()<br>
