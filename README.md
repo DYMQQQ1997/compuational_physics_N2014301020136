@@ -13,7 +13,7 @@ https://www.zybuluo.com/N2014301020136/note/533937#Personal Information
 [Homework3](https://www.zybuluo.com/N2014301020136/note/513109)<br>
 [Homework4](https://www.zybuluo.com/N2014301020136/note/524223)<br>
 [Homework5 2.9](https://www.zybuluo.com/N2014301020136/note/533937)<br>
-[Homework6]()<br>
+[Homework6 2.10](https://www.zybuluo.com/N2014301020136/note/542258)<br>
 [Homework7]()<br>
 [Homework8]()<br>
 [Homework9]()<br>
