@@ -15,7 +15,7 @@ https://www.zybuluo.com/N2014301020136/note/550065https://www.zybuluo.com/N20143
 [Homework5](https://www.zybuluo.com/N2014301020136/note/533937)<br>
 [Homework6](https://www.zybuluo.com/N2014301020136/note/542258)<br>
 [Homework7](https://www.zybuluo.com/N2014301020136/note/550065)<br>
-[Homework8]()<br>
+[Homework8](https://www.zybuluo.com/N2014301020136/note/565739)<br>
 [Homework9]()<br>
 [Homework10]()<br>
 [Homework11]()<br>
